@@ -29,7 +29,8 @@ Le programme est en cours d'élaboration mais sera très prochainement disponibl
 - try to use opensource tools from [framasoft](https://framasoft.org/fr/)
 - **trello** for tasks and projects
 - A new name for the network *La Rencontre des Informaticiens Nantais* ?
+- Ne pas avoir des doublons de rencontres et de sujets de présentation avec Cargo (Resinfo/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMDg4MzUwNCw1MDYxMDg0MTMsLTQyNz
-A3NDMwMywyNjg2Mzk5NjldfQ==
+eyJoaXN0b3J5IjpbMjAxMTgzNTk2LDUwNjEwODQxMywtNDI3MD
+c0MzAzLDI2ODYzOTk2OV19
 -->
