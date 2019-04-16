@@ -4,6 +4,10 @@
 - [ ] parler de quoi
 - [ ] matinfo4
 
+## Text "Save The Date"
+
+
+
 ## Manifest
 
 ## Idées / Suggestions
@@ -13,5 +17,5 @@
 - try to use opensource tools from [framasoft](https://framasoft.org/fr/)
 - **trello** for tasks and projects
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY4NjM5OTY5XX0=
+eyJoaXN0b3J5IjpbNjA3NTU3MTM4LDI2ODYzOTk2OV19
 -->
