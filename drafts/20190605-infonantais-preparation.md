@@ -13,7 +13,7 @@ Yann et moi vous proposons de réserver dans votre agenda la date du mercredi 5 
 
 L'objectif de ce réseau reste le même, celui de se voir pour échanger et discuter de vive voix autour de l'informatique en général.
 
-Le format et le programme sont en cours 
+Le programme est en cours d'élaboration mais sera très prochainement disponible sur 
 
 1. un tour de table des actualités (journées à venir, accueil des nouveaux, nouveaux projets, etc.) et des brefs retours de travaux en cours/réflexion (5mn max par intervenant) ~60mn  
 2. un retour d'expérience sur un projet en production et en cours de déploiement ou sur un dossier d'actualité (matinfo5 par Christophe Bonnin ?) ~45mn  
@@ -28,6 +28,6 @@ Le format et le programme sont en cours
 - try to use opensource tools from [framasoft](https://framasoft.org/fr/)
 - **trello** for tasks and projects
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTcxMDczNTksLTQyNzA3NDMwMywyNj
-g2Mzk5NjldfQ==
+eyJoaXN0b3J5IjpbNTA2MTA4NDEzLC00MjcwNzQzMDMsMjY4Nj
+M5OTY5XX0=
 -->
