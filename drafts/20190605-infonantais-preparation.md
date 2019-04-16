@@ -13,8 +13,9 @@ Yann et moi vous proposons de réserver dans votre agenda la date du mercredi 5 
 
 L'objectif de ce réseau reste le même, celui de se voir pour échanger et discuter de vive voix autour de l'informatique en général.
 
-Le programme est en cours d'élaboration mais sera très prochainement disponible sur 
+Le programme est en cours d'élaboration mais sera très prochainement disponible sur indico mathrice.
 
+### Programme draft
 1. un tour de table des actualités (journées à venir, accueil des nouveaux, nouveaux projets, etc.) et des brefs retours de travaux en cours/réflexion (5mn max par intervenant) ~60mn  
 2. un retour d'expérience sur un projet en production et en cours de déploiement ou sur un dossier d'actualité (matinfo5 par Christophe Bonnin ?) ~45mn  
 3. un forum sur le "devenir du réseau"; propositions/rappels sur le status et le mode de fonctionnement, discussion sur un intérêt (ou pas) d’intégrer dans les autres réseaux régionaux existants comme Cargo de Resinfo, Devlog (aujourd'hui rattraché à cargo en région) ou groupe calcul. ~60mn
