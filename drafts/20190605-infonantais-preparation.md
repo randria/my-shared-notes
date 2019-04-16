@@ -29,6 +29,6 @@ Le programme est en cours d'élaboration mais sera très prochainement disponibl
 - try to use opensource tools from [framasoft](https://framasoft.org/fr/)
 - **trello** for tasks and projects
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA2MTA4NDEzLC00MjcwNzQzMDMsMjY4Nj
-M5OTY5XX0=
+eyJoaXN0b3J5IjpbMTAyOTcwODY1NCw1MDYxMDg0MTMsLTQyNz
+A3NDMwMywyNjg2Mzk5NjldfQ==
 -->
