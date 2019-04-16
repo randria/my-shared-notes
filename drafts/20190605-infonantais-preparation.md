@@ -13,7 +13,7 @@ Yann et moi vous proposons de réserver dans votre agenda la date du mercredi 5 
 
 L'objectif de ce réseau reste le même, celui de se voir pour échanger et discuter de vive voix sur les actualités de l'informatique générale et nos quotidiens dans un moment convivial.
 
-Le programme est en cours d'élaboration mais sera très prochainement disponible mais ça sera certainement  des retours d'expérience (terminés ou encours) sur la thématique du DevOps (ou les offres de service à la demande)
+Le programme est en cours d'élaboration mais sera très prochainement disponible mais il y aura certainement des retours d'expérience (terminés ou encours) sur la thématique du DevOps (ou les offres de service à la demande) et un forum de discussion sur un sujet d'actualité. Et le tout sera a
 
 ### Programme draft
 1. un tour de table des actualités (journées à venir, accueil des nouveaux, nouveaux projets, etc.) et des brefs retours de travaux en cours/réflexion (5mn max par intervenant) ~60mn  
@@ -29,6 +29,6 @@ Le programme est en cours d'élaboration mais sera très prochainement disponibl
 - try to use opensource tools from [framasoft](https://framasoft.org/fr/)
 - **trello** for tasks and projects
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTIxMzUxMjUsNTA2MTA4NDEzLC00Mj
+eyJoaXN0b3J5IjpbLTE1NjI5MjMyNzgsNTA2MTA4NDEzLC00Mj
 cwNzQzMDMsMjY4NjM5OTY5XX0=
 -->
