@@ -1,2 +1,2 @@
-# my-shared-notes
-My Shared Notes
+# My Shared Notes
+Nothing else.
