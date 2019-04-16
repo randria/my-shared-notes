@@ -7,7 +7,10 @@
 ## Text "Save The Date"
 
 Chers collègues,
-Il est temps que ce réseau renaît de ses propres cendres pour en devenir moteur 
+Il est temps que ce réseau renaît de ses propres cendres pour en devenir plus fort et plus dynamique dans tous les sens du terme.
+
+Yann et moi vous proposons de réserver dans votre agenda la date du 5 juin prochain entre 9h30 et 12h30
+
 1. un tour de table des actualités (journées à venir, accueil des nouveaux, nouveaux projets, etc.) et des brefs retours de travaux en cours/réflexion (5mn max par intervenant) ~60mn  
 2. un retour d'expérience sur un projet en production et en cours de déploiement ou sur un dossier d'actualité (matinfo5 par Christophe Bonnin ?) ~45mn  
 3. un forum sur le "devenir du réseau"; propositions/rappels sur le status et le mode de fonctionnement, discussion sur un intérêt (ou pas) d’intégrer dans les autres réseaux régionaux existants comme Cargo de Resinfo, Devlog (aujourd'hui rattraché à cargo en région) ou groupe calcul. ~60mn
@@ -21,5 +24,5 @@ Il est temps que ce réseau renaît de ses propres cendres pour en devenir moteu
 - try to use opensource tools from [framasoft](https://framasoft.org/fr/)
 - **trello** for tasks and projects
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDQxMjQ0OTEsMjY4NjM5OTY5XX0=
+eyJoaXN0b3J5IjpbLTg3NTcyOTYwMywyNjg2Mzk5NjldfQ==
 -->
