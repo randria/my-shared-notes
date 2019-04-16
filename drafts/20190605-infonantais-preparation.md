@@ -9,7 +9,7 @@
 Chers collègues,
 Il est temps que ce réseau renaît de ses propres cendres pour en devenir plus fort et plus dynamique dans tous les sens du terme.
 
-Yann et moi vous proposons de réserver dans votre agenda la date du 5 juin prochain entre 9h30 et 12h30
+Yann et moi vous proposons de réserver dans votre agenda la date du mercredi 5 juin prochain de 9h30 et 12h30 pour se revoir dans les locaux de l'Ecole Centrale (Amphi E)
 
 1. un tour de table des actualités (journées à venir, accueil des nouveaux, nouveaux projets, etc.) et des brefs retours de travaux en cours/réflexion (5mn max par intervenant) ~60mn  
 2. un retour d'expérience sur un projet en production et en cours de déploiement ou sur un dossier d'actualité (matinfo5 par Christophe Bonnin ?) ~45mn  
@@ -24,5 +24,5 @@ Yann et moi vous proposons de réserver dans votre agenda la date du 5 juin proc
 - try to use opensource tools from [framasoft](https://framasoft.org/fr/)
 - **trello** for tasks and projects
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NTcyOTYwMywyNjg2Mzk5NjldfQ==
+eyJoaXN0b3J5IjpbLTEyODkwMDMzNjksMjY4NjM5OTY5XX0=
 -->
