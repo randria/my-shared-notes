@@ -16,7 +16,7 @@ L'objectif de ce réseau reste le même, celui de se voir pour échanger et disc
 
 Le programme est en cours d'élaboration mais sera très prochainement disponible mais il y aura certainement des retours d'expérience (terminés ou encours) sur la thématique du DevOps (ou les offres de service à la demande) et un forum de discussion sur un sujet d'actualité. Et le tout sera agrémenté d'un buffet qui sera servi sur place à la fin de la rencontre.
 
-Pour des raisons de logistique, nous vous demanderons de vous inscrire
+La rencontre est bien entendu gratuite et les places limitées, mais pour des raisons de logistique merci de vous inscrire https://evento.renater.fr/survey/les-infonantais-rzeoc26q
 
 ### Programme draft
 1. un tour de table des actualités (journées à venir, accueil des nouveaux, nouveaux projets, etc.) et des brefs retours de travaux en cours/réflexion (5mn max par intervenant) ~60mn  
@@ -35,6 +35,6 @@ Pour des raisons de logistique, nous vous demanderons de vous inscrire
 - Ne pas avoir des doublons de rencontres et de sujets de présentation avec le réseau régional MI du CNRS, Cargo (Resinfo/DevLog/RBDD), plutôt travailler en bonne intelligence ensemble pour partager et collaborer
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDYxMzE5OTIsNTA2MTA4NDEzLC00Mj
-cwNzQzMDMsMjY4NjM5OTY5XX0=
+eyJoaXN0b3J5IjpbLTEzNzg5NjUyMTEsLTE0MDYxMzE5OTIsNT
+A2MTA4NDEzLC00MjcwNzQzMDMsMjY4NjM5OTY5XX0=
 -->
