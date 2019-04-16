@@ -28,8 +28,8 @@ Le programme est en cours d'élaboration mais sera très prochainement disponibl
 - all on **Renater** (wiki, lime, evento and mailing-list)
 - try to use opensource tools from [framasoft](https://framasoft.org/fr/)
 - **trello** for tasks and projects
-- A new name for the network *La Rencontre des InfoNantais"
+- A new name for the network *La Rencontre des Informaticiens Nantais* ?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzOTExNzE1OCw1MDYxMDg0MTMsLTQyNz
+eyJoaXN0b3J5IjpbMjAxMDg4MzUwNCw1MDYxMDg0MTMsLTQyNz
 A3NDMwMywyNjg2Mzk5NjldfQ==
 -->
