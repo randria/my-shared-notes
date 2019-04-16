@@ -11,7 +11,7 @@ Il est temps que ce réseau renaît de ses propres cendres pour en devenir plus 
 
 Yann et moi vous proposons de réserver dans votre agenda la date du mercredi 5 juin prochain de 9h30 et 12h30 dans les locaux de l'Ecole Centrale (Amphi E).
 
-L'objectif de ce réseau reste le même, celui de se voir pour échanger et discuter de vive voix autour de l'informatique en général.
+L'objectif de ce réseau reste le même, celui de se voir pour échanger et discuter de vive voix sur les actualités de l'informatique générale et de nos dans un moment convivial.
 
 Le programme est en cours d'élaboration mais sera très prochainement disponible sur indico mathrice.
 
@@ -29,6 +29,6 @@ Le programme est en cours d'élaboration mais sera très prochainement disponibl
 - try to use opensource tools from [framasoft](https://framasoft.org/fr/)
 - **trello** for tasks and projects
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyOTcwODY1NCw1MDYxMDg0MTMsLTQyNz
-A3NDMwMywyNjg2Mzk5NjldfQ==
+eyJoaXN0b3J5IjpbNTA3OTIwOTQzLDUwNjEwODQxMywtNDI3MD
+c0MzAzLDI2ODYzOTk2OV19
 -->
