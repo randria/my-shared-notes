@@ -6,7 +6,8 @@
 
 ## Text "Save The Date"
 
-
+>Chers collègues,
+Depuis le temps que 
 
 ## Manifest
 
@@ -17,5 +18,5 @@
 - try to use opensource tools from [framasoft](https://framasoft.org/fr/)
 - **trello** for tasks and projects
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA3NTU3MTM4LDI2ODYzOTk2OV19
+eyJoaXN0b3J5IjpbMTE0ODQwMjAzNiwyNjg2Mzk5NjldfQ==
 -->
